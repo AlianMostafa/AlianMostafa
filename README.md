@@ -1,62 +1,45 @@
-<h1>Hi There, I'm Alyan Mostafa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<!-- <p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=alyanmostafa&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/> -->
+  <p>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
+  </p>
+</p>
 
-I'm a **Frontend Developer** passionate about building creative, responsive, and visually appealing web applications.  
-My day-to-day work revolves around crafting user interfaces, optimizing performance, and blending design with functionality.  
-I'm open to collaborate on interesting projects that combine AI, data analysis, and creative design.
+<p>
+  📣 Want to get in touch? Reach me here:<br/>
+  <a href="mailto:elyanmostafa400@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/alian-m-2a94651b9"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AlianMostafa"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-## Skill Set :muscle:
+<img src="http://views.whatilearened.today/views/github/alyanmostafa/views.svg"/>
+<h3>⚡️ Let’s build creative web experiences together ⚡️</h3><br/>
+<p>
+  👨‍💻 I'm <b>Alian Mostafa</b>, a Frontend Developer passionate about blending <b>design</b> × <b>code</b>.<br/>
+  💼 Based in Egypt, focused on responsive and visually appealing web applications.<br/>
+  💻 Skilled in <b>React.js</b>, <b>TailwindCSS</b>, <b>Bootstrap</b>, <b>JavaScript</b>, and more.<br/>
+  🎨 I enjoy creating bilingual resources (Arabic & English) and interactive dashboards.<br/>
+  <!-- 🚀 Currently working on a portfolio-ready graduation project combining AI, data analysis, and creative design. -->
+</p>
 
-**Programming Languages**
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|
-<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|
-<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|
-<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|
-<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">  
-|--|--|--|--|--|
+<details>
+  <summary>Some GitHub stats ...</summary><br/>
 
-**Libraries and Frameworks**
+![Alyan's Github Stats](https://github-readme-stats.vercel.app/api?username=alyanmostafa&show_icons=true&theme=radical&include_all_commits=true)
 
-<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|
-<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|
-<img title="TailwindCSS" alt="TailwindCSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">|
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">  
-|--|--|--|--|
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alyanmostafa&theme=dark&count_private=true)
 
-**Tools**
-
-<img title="Photoshop" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/photoshop/photoshop.png">|
-<img title="Notion" alt="Notion" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/notion/notion.png">|
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|
-<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">  
-|--|--|--|--|
-
-<br>
-
-## 🚀 Featured Projects (Portfolio)
-
-- **AI Dashboard** – A fullstack web app integrating AI-driven analytics with interactive charts.  
-- **Responsive Portfolio Website** – A modern, mobile-friendly personal portfolio built with React & TailwindCSS.  
-- **Image Processing Toolkit** – Academic project using MATLAB & C++ for advanced image transformations.  
-- **Task Manager App** – Productivity tool with Notion-style design, built using React and MySQL.  
-
-*(Replace these with links to your actual GitHub repos or live demos)*
-
-<br>
-
-## Some of my stats :bar_chart:
-
-<img src="https://github-readme-stats.vercel.app/api?username=alyanmostafa&show_icons=true&theme=radical&include_all_commits=true">
-
-<br>
-
-## Let's Connect :handshake:
-
-<a href="https://www.linkedin.com/in/alyanmostafa/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|
-<a href="mailto:alyanmostafa@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"></a>  
-|--|--|
-
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
-
-<a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+</details>
